@@ -2,4 +2,6 @@
 Autopwn HTB Shocker
 
 ## Ejecución
-'''autopwm_shocker.py [ip_rhost] [ip_lhost]'''
+'''bash
+autopwm_shocker.py [ip_rhost] [ip_lhost]
+'''
